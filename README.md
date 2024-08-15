@@ -6,7 +6,8 @@ I am Jay Marc from Spain and I am a Junior Developer. I Really enjoy learning ne
 
 Skills: .NET / Dotnet / Angular / Javascript / Typescript / Java / Laravel / PHP / SQL / PLSQL / Bootstrap / HTML / CSS
 
-<img src="https://github.com/JmarcXD/JmarcXD/blob/main/dotnet-icon.png" width="256"/>
+## Skills And Experience
+* <img src="https://github.com/JmarcXD/JmarcXD/blob/main/dotnet-icon.png" width="50"/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/JmarcXD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/jmarc-paragas/)  
 
