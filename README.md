@@ -1,4 +1,4 @@
-### Hi there 👋, Jay Marc Paragas
+### Hi there 👋, Jay Marc 
 #### Software Developer
 ![Software Developer](https://media.licdn.com/dms/image/v2/D4D16AQG7uf3OjCerOw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721836726297?e=1729123200&v=beta&t=B8puFx3u-08_pWox_CZQwTHMf3IIN54v5Fz5fqb0tpQ)
 
