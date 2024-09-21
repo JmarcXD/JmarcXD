@@ -4,7 +4,7 @@
 
 I am Jay Marc from Spain and I am a Junior Developer. I Really enjoy learning new programing languaje and frameworks like Angular, PHP, Dotnet, Java, and more! I also enjoy learn about design patterns and clean architecture to code comfortably and understand code better.
 
-Skills: .NET / Dotnet / Angular / Javascript / Typescript / Java / Laravel / PHP / SQL / PLSQL / Bootstrap / HTML / CSS
+Skills: .NET / Dotnet / Angular / Javascript / Typescript / Java / SQL 
 
 ## Skills And Experience
 <img src="https://github.com/JmarcXD/JmarcXD/blob/main/dotnet-icon.png" width="50"/> <img src="https://github.com/JmarcXD/JmarcXD/blob/main/csharp-icon.png" width="45"/>  <img src="https://github.com/JmarcXD/JmarcXD/blob/main/angular-icon.png" width="50"/> <img src="https://github.com/JmarcXD/JmarcXD/blob/main/typescript-icon.png" width="50"/> <img src="https://github.com/JmarcXD/JmarcXD/blob/main/javascript-icon.png" width="50"/> <img src="https://github.com/JmarcXD/JmarcXD/blob/main/html-icon.png" width="30"/> <img src="https://github.com/JmarcXD/JmarcXD/blob/main/css-icon.png" width="50"/> <img src="https://github.com/JmarcXD/JmarcXD/blob/main/java-icon.png" width="40"/>
